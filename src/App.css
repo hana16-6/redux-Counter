@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+}
+ul{
+  list-style: none;
+}
+.d-flex{
+  display: flex;
+  align-items: center
+}
+.d-flex h3{
+  flex-basis: 70%;
+  
+}
+.d-flex div{
+  flex-basis: 30%;
+}
